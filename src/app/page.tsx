@@ -1,4 +1,4 @@
-import { iceCreamService } from "@/services/ice-creams/instance";
+import { iceCreamService } from "@/services";
 
 export default async function Home() {
   const iceCreams = await iceCreamService.getAll();
