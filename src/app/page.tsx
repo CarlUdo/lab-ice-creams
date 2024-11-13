@@ -1,4 +1,4 @@
-import { IceCreams } from "@/services";
+import { IceCreams } from "@/features";
 
 export default async function Home() {
   return (
