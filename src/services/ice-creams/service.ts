@@ -1,7 +1,7 @@
-export function creatIceCreamService() {
+export function createIceCreamService() {
   return {
     async getAll() {
       return [];
-    }
+    },
   };
 }

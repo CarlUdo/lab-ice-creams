@@ -1,3 +1,3 @@
-import { creatIceCreamService } from "./service";
+import { createIceCreamService } from "./service";
 
-export const iceCreamService = creatIceCreamService();
+export const iceCreamService = createIceCreamService();
